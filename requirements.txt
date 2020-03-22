@@ -1,0 +1,9 @@
+findspark
+tweepy
+pandas
+uuid
+preprocessor
+pyspark
+vaderSentiment
+nltk
+gensim
